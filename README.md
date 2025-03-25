@@ -1,9 +1,5 @@
-IPL SQL Analysis
+Conclusion
+This project leverages SQL to analyze IPL match data, exploring patterns such as top batsmen, high-scoring overs, and bowler performance. The queries provide actionable insights into match dynamics, useful for cricket analysts and enthusiasts.
 
-This repository contains a SQL script (ipl_queries.sql) that demonstrates various data analysis techniques using SQL on an IPL (Indian Premier League) dataset. The dataset deliveries.csv is used to perform analytical queries on the DELIVERIES table for better understanding of IPL match data. Additionally, a presentation file ipl.pptx provides a visual summary of the project.
-
-Queries Covered
-
-Database Setup – Initializes the ipl database and inspects the DELIVERIES table.
-
-List Deliveries – Retrieves specific delivery details (match_id, inning
+Author
+Pvs Sampath
