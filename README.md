@@ -1,9 +1,9 @@
-🗃️ IPL SQL Analysis: Query Breakdown
-📋 Database Setup
-Create Database: CREATE DATABASE ipl; creates a new database named ipl to store IPL match data.
-Set Active Database: USE ipl; sets the ipl database as the active database for subsequent queries.
-Inspect Table Structure: DESC DELIVERIES; displays the structure (schema) of the DELIVERIES table, showing columns like MATCH_ID, INNING, OVER, BALL, etc.
-View All Data: SELECT * FROM deliveries; retrieves all rows and columns from the DELIVERIES table to inspect the data.
-🔍 Query 1: List Deliveries with Specific Details
-Purpose: Selects specific columns (match_id, inning, over, ball) from the DELIVERIES table.
-Outcome: Lists delivery details for all entries in the dataset.
+IPL SQL Analysis
+
+This repository contains a SQL script (ipl_queries.sql) that demonstrates various data analysis techniques using SQL on an IPL (Indian Premier League) dataset. The dataset deliveries.csv is used to perform analytical queries on the DELIVERIES table for better understanding of IPL match data. Additionally, a presentation file ipl.pptx provides a visual summary of the project.
+
+Queries Covered
+
+Database Setup – Initializes the ipl database and inspects the DELIVERIES table.
+
+List Deliveries – Retrieves specific delivery details (match_id, inning
